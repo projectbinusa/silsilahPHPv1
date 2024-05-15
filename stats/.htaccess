@@ -1,0 +1,7 @@
+AuthName "silsilah.dinartechshare-e.com statistics"
+AuthType Basic
+AuthUserFile /home/dinartechshare-e/domains/silsilah.dinartechshare-e.com/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+Require all denied
+</Files>

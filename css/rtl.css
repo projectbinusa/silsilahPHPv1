@@ -1,0 +1,132 @@
+html, body {
+	direction: rtl;
+	text-align: right;
+	font-family: "El Messiri";
+	overflow-x: hidden;
+}
+*, html, body, a, h1, h2, h3, h4, h5, h6 {
+	font-family: "El Messiri" !important;
+	/*font-family: "Harmattan";*/
+}
+
+.pt-nav-menu {
+    right: 0;
+    left: auto;
+}
+.pt-wrapper {
+    padding: 76px 80px 0px 24px;
+}
+
+.modal-header .close {
+    margin: -1rem auto -1rem -1rem;
+}
+#div {
+    direction: ltr;
+}
+.pt-tree .pt-details {
+    right: auto;
+    left: 48px;
+}
+.pt-list-item .pt-options {
+    right: auto;
+    left: 24px;
+}
+.pt-list .pt-title .pt-options {
+	right: auto;
+	left: 24px;
+}
+.pt-pageplans .pt-plans .pt-plan ul li {
+    padding-left: 0;
+    padding-right: 16px;
+    text-align: right;
+}
+.pt-pageplans .pt-plans .pt-plan ul li span {
+    right: auto;
+    left: 12px;
+	}
+
+.file-upload .file-select {
+	direction: ltr
+}
+.file-upload .file-select .file-select-name {
+	float: right;
+}
+.pt-pagedetails .pt-box .badge {
+    float: left;
+}
+.pt-header-menu .pt-search .sresults .pt-drop {
+	right: auto;
+	left: -24px;
+}
+
+.pt-pagedashboard .pt-admin-body {
+    margin-left: 0;
+    margin-right: 140px;
+}
+
+.pt-pagedashboard .pt-body .pt-title .pt-options {
+    right: auto;
+    left: 24px;
+}
+
+.pt-pagedashboard .pt-body .table .pt-status,
+.tgl-btn {
+    direction: ltr;
+}
+
+.pt-pagedashboard .pt-body .table .pt-options ul {
+    left: 24px;
+    right: auto;
+}
+.pt-pagedashboard .pt-admin-body .pt-body .pt-thumb {
+	    margin-left: 12px;
+	    margin-right: 0;
+}
+
+.pt-pagedashboard .pt-body .table .pt-options ul.open {
+    left: 40px;
+    right: auto;
+}
+.pt-pagedashboard .pt-body .table .pt-options .pt-options-link {
+	left: 24px;
+	right: auto;
+}
+
+.pt-pageusers .pt-list-item p span {
+    margin: 0 6px 0 12px;
+}
+.pt-flist .pt-list-item p span {
+    margin-left: 8px;
+    margin-right: 3px;
+}
+
+.pt-header-menu .pt-list-menu .pt-thumb {
+	float: right;
+}
+
+.pt-header-menu .pt-logo,
+.pt-header-menu .pt-search {
+	    float: right;
+}
+.pt-header-menu .pt-list-menu {
+    float: left;
+    margin-right: 0;
+    margin-left: 48px;
+}
+.pt-header-menu .pt-search input[type=text] {
+	margin: 10px 24px 0 0;
+}
+.pt-header-menu .pt-search button {
+	margin-left: 0px;
+	margin-right: -30px;
+}
+.pt-nav-menu ul li a b {
+	right: 54px;
+	left: auto;
+	border-radius: 50px 0 0  50px;
+	    text-align: right;
+}
+.pt-nav-menu ul li a:hover b {
+	right: 64px;
+	left: auto;
+}
